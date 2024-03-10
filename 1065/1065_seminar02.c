@@ -38,7 +38,7 @@ struct Produs preluareProdusDinFisier(FILE* file) {
 
 		fgets(buffer, 15, file);
 		char* denumire = strtok(buffer, "\n");
-		produs.denumire = malloc(sizeof(char)*(strlen(denumire)+1));
+		produs.denumire = (char*)malloc(sizeof(char)*(strlen(denumire)+1));
 		strcpy(produs.denumire, denumire);
 	}
 	return produs;

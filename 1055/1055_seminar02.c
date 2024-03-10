@@ -26,7 +26,6 @@ struct Masina citireMasina(FILE* fStream) {
 		strcpy(masina.marca, sir);
 
 		fgets(buffer, 6, fStream);
-		fgets()
 		masina.anFabricatie = atoi(buffer);
 
 		fgets(buffer, 12, fStream);

@@ -1,0 +1,12 @@
+Pisica
+3
+5.4
+Cal
+8
+50.4
+Lup
+12
+10
+Cartita
+2
+4
