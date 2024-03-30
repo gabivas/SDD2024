@@ -1,0 +1,87 @@
+Lista Simplu Inlantuita:
+
+-inserareLaInceput
+
+-inserarareLaSfarsit
+
+-cautare Nod / Informatie Utila dupa criterii
+
+-dezalocare structura
+
+-stergere Noduri dupa criterii
+
+-conversie la alta structura invatata la seminar(inclusiv la vector)
+
+-traversare
+
+
+
+Lista Dublu Inlantuita:
+
+-inserareInceput
+
+-inserarareLaSfarsit
+
+-cautareNod / Informatie Utila dupa criterii
+
+-dezalocare
+
+-stergere Noduri dupa criterii
+
+-conversie la alta structura invatata la seminar(inclusiv la vector)
+
+-traversare in ambele sensuri
+
+
+
+Coada si Stiva:
+
+-push/pop(stiva) + put/get(coada)
+
+-scoatere nod dupa criteriu
+
+-conversie la alta structura invatata la seminar(inclusiv la vector)
+
+-afisare
+
+-dezalocare
+
+
+
+HashTable(chaining):
+
+-inserareHashTable
+
+-afisareHashTable
+
+-dezalocare
+
+-cautareDupaCriteriu
+
+-conversieLaAltaStructura
+
+
+
+Preluare date:
+
+-de la tastatura
+
+-din fisier
+
+-valori introduse ca parametri intr-o functie de initializare(cum am lucrat la seminar)
+
+
+
+Modificare structuri si variabile:
+
+-prin transmiterea lor prin adresa in lista de parametri
+
+-prin return in interiorul functiei
+
+
+
+Utile in timpul testului/examenului:
+
+-folosirea debuggerului
+
+-intelegerea si desenarea memoriei 
