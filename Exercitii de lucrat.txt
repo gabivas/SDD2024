@@ -1,0 +1,83 @@
+Arbori Binare de Cautare:
+
+-inserare
+
+-parcurgeri
+
+-dezalocare
+
+-cautare in arbore
+
+-conversieLaAltaStructura
+
+-stergere nod/noduri
+
+
+
+AVL:
+
+-inserare
+
+-parcurgeri
+
+-dezalocare
+
+-cautare in arbore
+
+-conversieLaAltaStructura
+
+-stergere nod/noduri
+
+
+
+Heap/Coada de Prioritati:
+
+-filtrare
+
+-parcurgere
+
+-dezalocare
+
+-extragere
+
+-conversieLaAltaStructura
+
+
+
+Grafuri:
+
+-inserare
+
+-parcurgeri
+
+-dezalocare
+
+-conversieLaAltaStructura
+
+-stergere nod/noduri
+
+
+
+Preluare date:
+
+-de la tastatura
+
+-din fisier
+
+-valori introduse ca parametri intr-o functie de initializare(cum am lucrat la seminar)
+
+
+
+Modificare structuri si variabile:
+
+-prin transmiterea lor prin adresa in lista de parametri
+
+-prin return in interiorul functiei
+
+
+
+Utile in timpul testului/examenului:
+
+-folosirea debuggerului
+
+-intelegerea si desenarea memoriei 
